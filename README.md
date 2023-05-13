@@ -1,7 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Eduardo</h1>
-<h3 align="center">A junior fullstack developer from Brazil</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardovasconceloss&label=Profile%20views&color=0e75b6&style=flat" alt="eduardovasconceloss" /> </p>
+<h3 align="center">A junior dev from Brazil</h3>
 
 - 🔭 I’m currently working on [Dating_request](https://github.com/EduardoVasconceloss/Dating_request)
 
