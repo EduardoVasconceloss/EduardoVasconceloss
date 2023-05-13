@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Dating_request](https://github.com/EduardoVasconceloss/Dating_request)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Ansible and Docker**
 
 - 👯 I’m looking to collaborate on [meuhorario](https://github.com/rodrigorgs/meuhorario)
 
-- 💬 Ask me about **Python and JavaScript**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **eduardo.lbvasconcelos@gmail.com**
 
