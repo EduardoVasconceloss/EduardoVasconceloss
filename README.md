@@ -1,7 +1,7 @@
 <h1 align="center">How you doin'? 👋, I'm Eduardo Vasconcelos</h1>
 <h3 align="center">A DevOps Engineer from Brazil</h3>
 
-- 🔭 I’m currently working on [devops-ci-cd-project](https://github.com/EduardoVasconceloss/devops-ci-cd-project)
+- 🔭 I’m currently working on [lab-graduacao-web](https://github.com/ic-ufba/lab-graduacao-web)
 
 - 🌱 I’m currently learning **Terraform and Kong Api**
 
