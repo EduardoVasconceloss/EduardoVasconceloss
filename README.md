@@ -1,11 +1,11 @@
 <h1 align="center">How you doin'? 👋, I'm Eduardo Vasconcelos</h1>
-<h3 align="center">A junior DevOps Engineer from Brazil</h3>
+<h3 align="center">A DevOps Engineer from Brazil</h3>
 
 - 🔭 I’m currently working on [devops-ci-cd-project](https://github.com/EduardoVasconceloss/devops-ci-cd-project)
 
-- 🌱 I’m currently learning **Jenkis and Kubernertes**
+- 🌱 I’m currently learning **Terraform and Kong Api**
 
-- 👯 I’m looking to collaborate on [meuhorario](https://github.com/rodrigorgs/meuhorario)
+- 👯 I’m looking to collaborate on [lab-graduacao-web](https://github.com/ic-ufba/lab-graduacao-web)
 
 - 🤝 I’m looking for help with [docker-readthedocs](https://github.com/EduardoVasconceloss/docker-readthedocs)
 
